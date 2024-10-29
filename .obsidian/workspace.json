@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "67b4296db89d3b59",
+    "type": "split",
+    "children": [
+      {
+        "id": "35b05d87150b04d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58505e2c1bdea10d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сети/TCP, UDP, IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2d180c6a5ae4571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Общее/Ozon go задачи.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8588e3f4499d91b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "92e0e9e508c9c911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "452a2cfb723094da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1753627648c0b03b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f12c392fa60e4684",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05bbdbc281dd674b",
+    "type": "split",
+    "children": [
+      {
+        "id": "742385b11cc711f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4a1877c939ab0b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Общее/Ozon go задачи.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47117cbb7739fc37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Общее/Ozon go задачи.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5673e46290bdcd08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c292ff2d83905b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Общее/Ozon go задачи.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e2d180c6a5ae4571",
+  "lastOpenFiles": [
+    "Сети/HTTP, HTTPS.md",
+    "Общее/Ozon go задачи.md",
+    "Сети/OSI.md",
+    "Базы данных/ACID.md",
+    "Общее/Ozon теория.md",
+    "Базы данных/Уровни изоляции.md",
+    "Базы данных/Разновидности БД.md",
+    "Базы данных/Оптимизация запросов.md",
+    "DevOps/CI CD.md",
+    "Сети/TCP, UDP, IP.md",
+    "Общее/Легенда.md",
+    "Общее/Ozon SQL.md",
+    "Базы данных/Блокировки.md",
+    "Брокеры/Kafka.md",
+    "Базы данных/Прочее.md",
+    "System design/Рефакторинг.md",
+    "System design/Паттерны проектирования.md",
+    "System design/Общее.md",
+    "Базы данных/Индексы.md",
+    "Общее/Записи собесов.md",
+    "Сети/gRPC.md",
+    "Сети/DNS.md",
+    "Golang/string, rune, bite.md",
+    "Golang/array, slice.md",
+    "DevOps/Git.md",
+    "Общее/моя команда.md",
+    "Blockchain",
+    "Кибербезопасность",
+    "Attachments/Pasted image 20240930152726.png",
+    "Attachments/Pasted image 20240930152708.png",
+    "Attachments/Pasted image 20240930151055.png",
+    "Attachments/Pasted image 20240929184318.png",
+    "Общее",
+    "Attachments/Pasted image 20240924180439.png",
+    "System design",
+    "DevOps",
+    "Linux",
+    "Kubernetes, Docker",
+    "Pasted image 20240921124448.png",
+    "Golang",
+    "Pasted image 20240921122158.png",
+    "Pasted image 20240921121853.png",
+    "Pasted image 20240921121830.png",
+    "Pasted image 20240921121816.png",
+    "Брокеры",
+    "Сети"
+  ]
+}
